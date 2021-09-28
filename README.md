@@ -10,6 +10,9 @@ Developed Version: **Spark AR Studio v118**
 ## Screenshots
 ![screenshot02](example01.jpg)
 
+## To Do
+- add two faces or more
+
 ## Author
 José Luís Haas
 
